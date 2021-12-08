@@ -1,1 +1,3 @@
 Preparing git assignment
+
+Adding a new line
